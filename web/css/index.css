@@ -1,0 +1,6 @@
+@import './reset.css';
+@import './variables.css';
+
+:global #main {
+  background: grey;
+}

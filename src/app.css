@@ -1,0 +1,10 @@
+@import '@cssVariables';
+
+.navigation {
+  display: flex;
+  justify-content: flex-end;
+
+  & li {
+    margin-right: 10px;
+  }
+}
